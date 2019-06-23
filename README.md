@@ -7,3 +7,11 @@
 
 队伍成员: zookeeper, fantasyGAGA, napianlin
 
+参考模型：
+1. FM
+2. Wide&Deep
+3. DeepFM
+4. XDeepFM
+5. FFM
+6. DIN
+7. AutoInt
